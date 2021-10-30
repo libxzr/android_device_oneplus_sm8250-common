@@ -372,10 +372,10 @@ PRODUCT_PACKAGES += \
     libstagefrighthw
 
 # OnePlus
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     oneplus-fwk
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     oneplus-fwk
 
 # Power
@@ -417,7 +417,7 @@ PRODUCT_PACKAGES += \
     qti_telephony_utils.xml \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     telephony-ext
 
 PRODUCT_COPY_FILES += \
@@ -497,7 +497,7 @@ PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     WfdCommon
 
 PRODUCT_BUILD_SUPER_PARTITION := false
