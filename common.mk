@@ -219,7 +219,8 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     ueventd.qcom.rc \
     vendor.oem_ftm.rc \
-    vendor.oem_ftm_svc_disable.rc
+    vendor.oem_ftm_svc_disable.rc \
+    init.logcat.rc
 
 # Component overrides
 PRODUCT_COPY_FILES += \
