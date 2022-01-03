@@ -4,6 +4,10 @@
     "target_path": "device/oneplus/extras"
   },
   {
+    "repository": "android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt"
+  },
+  {
     "repository": "android_kernel_oneplus_sm8250",
     "target_path": "kernel/oneplus/sm8250"
   },
