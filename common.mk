@@ -317,7 +317,8 @@ PRODUCT_PACKAGES += \
 
 # HIDL
 PRODUCT_PACKAGES += \
-    libhwbinder.vendor
+    libhwbinder.vendor \
+    libhidltransport.vendor
 
 # HotwordEnrollement app permissions
 PRODUCT_COPY_FILES += \
